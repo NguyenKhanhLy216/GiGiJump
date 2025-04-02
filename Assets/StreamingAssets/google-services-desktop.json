@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "47886583293",
+    "firebase_url": "https://gamescore-db3da-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gamescore-db3da",
+    "storage_bucket": "gamescore-db3da.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47886583293:android:fe891cd8bb95cb154fc594",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.GiGiJump"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKfjOcaluAq_Mx-KPiy89auyf-kMcMmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
