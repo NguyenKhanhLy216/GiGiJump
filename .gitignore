@@ -1,0 +1,25 @@
+# 🛑 Bỏ qua thư mục build và cache của Unity
+Library/
+Temp/
+Build/
+Logs/
+obj/
+bin/
+
+# 🛑 Bỏ qua file lớn không cần thiết
+*.apk
+*.so
+*.aar
+*.jar
+*.bundle
+*.db
+*.mp4
+*.zip
+*.exe
+
+# 🛑 Bỏ qua thư mục chứa file lớn
+Jump/Library/
+Jump/Build/
+Jump/Temp/
+Jump/Logs/
+
